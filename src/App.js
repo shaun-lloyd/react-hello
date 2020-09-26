@@ -5,7 +5,6 @@ import List from './List'
 import Welcome from './Welcome'
 import Form from './Form'
 import Calculator from './Calc'
-
 const name="Test"
 
 export default function App() {
